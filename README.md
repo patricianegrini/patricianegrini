@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-<!--
-**patricianegrini/patricianegrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá Eu Sou a Patricia Negrine, sou programador Front-end. Atualmente trabalho com projetos com tecnologias: 
+  HTML 
+  CSS 
+  JavaScript. 
+Busco oportunidades desafiadoras para aplicar minha experiência e impulsionar o sucesso organizacional.
+
 
 Here are some ideas to get you started:
 
