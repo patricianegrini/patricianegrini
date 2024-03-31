@@ -1,20 +1,19 @@
 ### Hi there 👋
 
-Olá Eu Sou a Patricia Negrine, sou programador Front-end. Atualmente trabalho com projetos com tecnologias: 
+Eu Sou a Patricia Negrine, sou programador Front-end, trabalho com projetos com tecnologias: 
+  <br>
   HTML 
-  CSS 
+  <br>
+  CSS
+  <br>
   JavaScript. 
+  <br>
 Busco oportunidades desafiadoras para aplicar minha experiência e impulsionar o sucesso organizacional.
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou trabalhando com prestação de serviço;
+<br>
+Estou aprendendo novas tecnologias com o curso no <a href="https://rodolfomori.com.br/devclub/">DevClub</a>
+<br>
+Procuro praticar os projetos aprendidos como esse do mario: <a href="https://projeto1mario.netlify.app/">Curso mil reais em 7 dias com Rodolfo Mori</a>
+<br>
+Estou no linkedln: www.linkedin.com/in/patricianegrine
