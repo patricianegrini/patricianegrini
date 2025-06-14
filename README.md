@@ -10,7 +10,7 @@ Eu Sou a Patricia Negrine, sou programador Front-end, trabalho com projetos com 
   <br>
 Busco oportunidades desafiadoras para aplicar minha experiência e impulsionar o sucesso organizacional.
 
-Atualmente estou trabalhando com prestação de serviço;
+Atualmente estou trabalhando com CLT na area escrita fiscal em contabilidade buscando oportunidade para programador junior;
 <br>
 Estou aprendendo novas tecnologias com o curso no <a href="https://rodolfomori.com.br/devclub/">DevClub</a>
 <br>
